@@ -1,2 +1,4 @@
 # java-chess
-Multiplayer or player vs AI chess game I created during University in 2005
+Chess game I created during University which allows for player vs player or player vs AI.
+
+I developed the AI through the use of a recursive minimax algorithm.
